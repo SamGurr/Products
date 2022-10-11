@@ -1,6 +1,6 @@
 **About**: research completed as a summer undergraduate research fellow (SURF) in summer of 2013
 
-**thesis advisor** - Roman Zajac, PhD
+**Research advisor** - Roman Zajac, PhD
 ---
 
 ## SURF Fellowship Paper (University Press, not peer-reviewed)
