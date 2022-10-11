@@ -1,4 +1,6 @@
-## Thresholds of intragenerational *p*CO<sub>2</sub> conditioning on metabolism, oxidative stress resiliance, and DNA methylation of juvenile Pacific geoduck *Panopea generosa* 
+**Conference**: Ocean Sciences Meeting 2020. San Diego, CA.
+
+## Thresholds of intragenerational *p*CO<sub>2</sub> conditioning on metabolism, oxidative stress resiliance, and DNA methylation of juvenile Pacific geoduck *Panopea generosa*
 
 Samuel J. Gurr<sup>1</sup>*, Shelly A. Trigg<sup>3</sup>, Brent Vadopalas<sup>2</sup>, Steven B. Roberts<sup>3</sup>, Hollie M. Putnam<sup>1</sup>
 
