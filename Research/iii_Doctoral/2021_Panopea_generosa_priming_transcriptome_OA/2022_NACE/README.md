@@ -1,6 +1,5 @@
 ## Environmental conditioning of clams to low pH enhances robustness to environmental stress through acclimatory gene expression
 
----
 
 Samuel J. Gurr<sup>1</sup>*, Shelly A. Trigg<sup>3</sup>, Brent Vadopalas<sup>2</sup>, Steven B. Roberts<sup>3</sup>, Hollie M. Putnam<sup>1</sup>
 
@@ -9,6 +8,8 @@ Samuel J. Gurr<sup>1</sup>*, Shelly A. Trigg<sup>3</sup>, Brent Vadopalas<sup>2<
 <sup>2</sup>University of Washington, Washington Sea Grant, 3716 Brooklyn Ave NE, Seattle, WA 98105 USA
 
 <sup>3</sup>University of Washington, School of Aquatic and Fishery Sciences, 1122 NE Boat St, Seattle, WA 98105 USA
+
+---
 
 **ABSTRACT**
 
@@ -29,6 +30,9 @@ Collectively, our transcriptomic data suggests post-larval acclimatory periods t
 regulation, enhance robustness to environmental change in juvenile P. generosa. Such priming approaches may be beneficial for
 aquaculture, as global seafood demand intensifies concurrent with environmental change.
 
+---
+
+RESOURCES
 
 **Publication:** [link here](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16644)
 
